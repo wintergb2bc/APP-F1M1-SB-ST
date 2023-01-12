@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2C7FF446-86F2-4E0A-A5A9-0912265CC66D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C7FF446-86F2-4E0A-A5A9-0912265CC66D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UMComponent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UMComponent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace UMComponent with scheme UMComponent and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>680515579.66131103</real>
+			<key>timeStoppedRecording</key>
+			<real>680515580.63555503</real>
+			<key>title</key>
+			<string>Building workspace UMComponent with scheme UMComponent and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2C7FF446-86F2-4E0A-A5A9-0912265CC66D</string>
+		</dict>
+		<key>66317C25-F382-42AD-BEEA-D84728D7AE43</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66317C25-F382-42AD-BEEA-D84728D7AE43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UMComponent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UMComponent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace UMComponent with scheme UMComponent and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>680515452.47520304</real>
+			<key>timeStoppedRecording</key>
+			<real>680515461.87680101</real>
+			<key>title</key>
+			<string>Building workspace UMComponent with scheme UMComponent and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>66317C25-F382-42AD-BEEA-D84728D7AE43</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,1346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+MERGED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-orientation-locker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-orientation-locker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-linear-gradient] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-view-shot] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-view-shot/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:RNWebView] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-webview-android/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-splash-screen] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-video] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-video/android-exoplayer/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-eventsource] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/@gpsgate/react-native-eventsource/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-24:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:2:1-15:12
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/e74cbe4294580b34595d03782d70c963/AndroidManifest.xml:2:1-12:12
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/79ff747ffa3c03558a267b616495a76d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/98c20daead4a4caaa4056659f0b07e89/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:17:1-31:12
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-161:12
+MERGED from [:eagleeyes-release-1.2:] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/eagleeyes-release-1.2.aar/f4bdd73f1dba2c796d7d55cb2083fb2d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.iovation.fraudforce.lib.FraudForce:fraudforce-lib-release-3.1.0:3.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fraudforce-lib-release-3.1.0.aar/2c39f3ebaa4521d0122c25377692850a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/2ec65161ac5508a557f6aa1377acf733/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/ba3b261a31614173588b14195aeea71b/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/f370594992b4d5aab33240309771c0a3/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8cb91b778353d14c7e6d3ea30ed55893/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/b8a5e2142b163cfb19040206cd40dc2b/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/c2048099e65e47f19dbf5e27ee9f8a18/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/65c2aec8cc1ab5420df39df59ba7abd5/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/e71f24b23ad016113dce6991494fc07c/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/fb052e3a0636a04aef8ef24908fe6527/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/0223ef8284740e19d83851a027f34abe/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/8fa8ba2a17265d8f1866d6e56b5c3dfa/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/ed2e8ebf8d938c00a89adf26405a2db7/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/9680fdd5a45d9f0d30258202d94a116a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/ed8fd45e6f64a5693e296717ebed9c94/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/332db96de5258363acc09756e98b0744/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/49cdd29d1da81734b6c67742e044cf9d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/1839acd6dd240e040e965234e17ecc5b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/d6796705edbdc87d81c4addf8ffe8181/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/840b9dd4e430438e08968fb95b594d40/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/24b285bdbd0f4aacb1533507e9baa8eb/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/6c71571454545b4bda94d916c6ca418e/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/364159893786a01b5be2af03bd91b362/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/b174fd92860a4f705fe98135d3925622/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/a955b10816b815608c311af509a4bf45/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/733c116c2aa9989d91003c4e48416545/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/e85e7fce0110053a2b221f675d27553e/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/f7e045bd39dd45e8f712b4e8d5d02559/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/0e605e524c37459407e04765be79504b/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/e9646d58c4b4e1b68468dc3938882c36/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/e1db249e8ad1b0414c1089d1a4a7b3d3/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/a36ace5bd8e341cd3f077d38ec11d33a/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/115726a11b18af3eaa6c5692294b58bb/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.3.aar/f9ca84b290de310b7062703be36d3e97/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.7.3.aar/8b2ab4bcf92d43d1d874cf1ace570bc3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f78640c29c74dec862c9d7edf2676e59/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/d40ebad7bdb08fc20adfe9f69ef9e23b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.3.aar/fa2320eff1d9ea7f5bc97976537e2975/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.3.aar/666e25d8dd1015807be3677eecc406b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/836000d82839c00e6768dfbb153432a7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/73c4caaace9acf7bcdde7171b852a77a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b56dd93eeb8ceb37a82b04e07e20cb34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/e5db1a38282006096322ca724844aba0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/b3bb295a0790a0c8d0714ecea8d5e505/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/32043bd836f6b3f6f60f06b5c5ad135f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/754d98aafe54519a734c472dba7c3225/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1906ec852f9a8f625e755e06c48c1358/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/740893e4e58ce9bc936bb729fc33f6ec/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5257aa68be2d03f83bb161dcfdf05bc6/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3e76cc7e871b0a8ca9cbeec317ac9e0a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/0f3d2c8dc4ba43e480587ba7f18c4696/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:1-158:12
+	package
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:12:5-67
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:12:5-67
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:11:5-78
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:13:5-79
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:13:5-79
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-79
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:14:5-75
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-76
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:16:5-74
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-75
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:20:5-80
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-81
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:22:5-74
+MERGED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:22:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:24:5-82
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:26:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:30:22-68
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:38:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:39:5-73
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:39:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:40:22-76
+uses-permission#android.hardware.camera.autofocus
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:41:5-73
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:41:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:42:5-68
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-68
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:42:22-65
+uses-feature#android.hardware.camera
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:46:9-47
+uses-feature#android.hardware.camera.front
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:48:5-50:36
+	android:required
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:50:9-33
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:49:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:51:5-53:36
+	android:required
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:53:9-33
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:52:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:54:5-56:36
+	android:required
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:56:9-33
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:55:9-53
+meta-data#android.max_aspect
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:60:5-62:31
+	android:value
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:62:9-28
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:61:9-42
+uses-sdk
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:64:5-66:41
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:64:5-66:41
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:64:5-66:41
+MERGED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation-locker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-orientation-locker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation-locker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-orientation-locker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-linear-gradient] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-view-shot] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-view-shot/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-view-shot/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:RNWebView] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-webview-android/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:RNWebView] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-webview-android/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-video/android-exoplayer/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-video/android-exoplayer/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-eventsource] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/@gpsgate/react-native-eventsource/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-eventsource] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/@gpsgate/react-native-eventsource/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/e74cbe4294580b34595d03782d70c963/AndroidManifest.xml:8:5-10:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/e74cbe4294580b34595d03782d70c963/AndroidManifest.xml:8:5-10:41
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:7:5-10:46
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:7:5-10:46
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/79ff747ffa3c03558a267b616495a76d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/79ff747ffa3c03558a267b616495a76d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/98c20daead4a4caaa4056659f0b07e89/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/98c20daead4a4caaa4056659f0b07e89/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:21:5-23:78
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:eagleeyes-release-1.2:] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/eagleeyes-release-1.2.aar/f4bdd73f1dba2c796d7d55cb2083fb2d/AndroidManifest.xml:7:5-9:41
+MERGED from [:eagleeyes-release-1.2:] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/eagleeyes-release-1.2.aar/f4bdd73f1dba2c796d7d55cb2083fb2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.iovation.fraudforce.lib.FraudForce:fraudforce-lib-release-3.1.0:3.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fraudforce-lib-release-3.1.0.aar/2c39f3ebaa4521d0122c25377692850a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.iovation.fraudforce.lib.FraudForce:fraudforce-lib-release-3.1.0:3.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fraudforce-lib-release-3.1.0.aar/2c39f3ebaa4521d0122c25377692850a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/2ec65161ac5508a557f6aa1377acf733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/2ec65161ac5508a557f6aa1377acf733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/ba3b261a31614173588b14195aeea71b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/ba3b261a31614173588b14195aeea71b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/f370594992b4d5aab33240309771c0a3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/f370594992b4d5aab33240309771c0a3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8cb91b778353d14c7e6d3ea30ed55893/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8cb91b778353d14c7e6d3ea30ed55893/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/b8a5e2142b163cfb19040206cd40dc2b/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/b8a5e2142b163cfb19040206cd40dc2b/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/c2048099e65e47f19dbf5e27ee9f8a18/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/c2048099e65e47f19dbf5e27ee9f8a18/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/65c2aec8cc1ab5420df39df59ba7abd5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/65c2aec8cc1ab5420df39df59ba7abd5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/e71f24b23ad016113dce6991494fc07c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/e71f24b23ad016113dce6991494fc07c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/fb052e3a0636a04aef8ef24908fe6527/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/fb052e3a0636a04aef8ef24908fe6527/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/0223ef8284740e19d83851a027f34abe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/0223ef8284740e19d83851a027f34abe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/8fa8ba2a17265d8f1866d6e56b5c3dfa/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/8fa8ba2a17265d8f1866d6e56b5c3dfa/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/ed2e8ebf8d938c00a89adf26405a2db7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/ed2e8ebf8d938c00a89adf26405a2db7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/9680fdd5a45d9f0d30258202d94a116a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/9680fdd5a45d9f0d30258202d94a116a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/ed8fd45e6f64a5693e296717ebed9c94/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/ed8fd45e6f64a5693e296717ebed9c94/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/332db96de5258363acc09756e98b0744/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/332db96de5258363acc09756e98b0744/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/49cdd29d1da81734b6c67742e044cf9d/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/49cdd29d1da81734b6c67742e044cf9d/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/1839acd6dd240e040e965234e17ecc5b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/1839acd6dd240e040e965234e17ecc5b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/d6796705edbdc87d81c4addf8ffe8181/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/d6796705edbdc87d81c4addf8ffe8181/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/840b9dd4e430438e08968fb95b594d40/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/840b9dd4e430438e08968fb95b594d40/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/24b285bdbd0f4aacb1533507e9baa8eb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/24b285bdbd0f4aacb1533507e9baa8eb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/6c71571454545b4bda94d916c6ca418e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/6c71571454545b4bda94d916c6ca418e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/364159893786a01b5be2af03bd91b362/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/364159893786a01b5be2af03bd91b362/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/b174fd92860a4f705fe98135d3925622/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/b174fd92860a4f705fe98135d3925622/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/a955b10816b815608c311af509a4bf45/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/a955b10816b815608c311af509a4bf45/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/733c116c2aa9989d91003c4e48416545/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/733c116c2aa9989d91003c4e48416545/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/e85e7fce0110053a2b221f675d27553e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/e85e7fce0110053a2b221f675d27553e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/f7e045bd39dd45e8f712b4e8d5d02559/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/f7e045bd39dd45e8f712b4e8d5d02559/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/0e605e524c37459407e04765be79504b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/0e605e524c37459407e04765be79504b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/e9646d58c4b4e1b68468dc3938882c36/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/e9646d58c4b4e1b68468dc3938882c36/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/e1db249e8ad1b0414c1089d1a4a7b3d3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/e1db249e8ad1b0414c1089d1a4a7b3d3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/a36ace5bd8e341cd3f077d38ec11d33a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/a36ace5bd8e341cd3f077d38ec11d33a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/115726a11b18af3eaa6c5692294b58bb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/115726a11b18af3eaa6c5692294b58bb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.3.aar/f9ca84b290de310b7062703be36d3e97/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.3.aar/f9ca84b290de310b7062703be36d3e97/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.7.3.aar/8b2ab4bcf92d43d1d874cf1ace570bc3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.7.3.aar/8b2ab4bcf92d43d1d874cf1ace570bc3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f78640c29c74dec862c9d7edf2676e59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f78640c29c74dec862c9d7edf2676e59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/d40ebad7bdb08fc20adfe9f69ef9e23b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/d40ebad7bdb08fc20adfe9f69ef9e23b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.3.aar/fa2320eff1d9ea7f5bc97976537e2975/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.3.aar/fa2320eff1d9ea7f5bc97976537e2975/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.3.aar/666e25d8dd1015807be3677eecc406b1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.3.aar/666e25d8dd1015807be3677eecc406b1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/836000d82839c00e6768dfbb153432a7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/836000d82839c00e6768dfbb153432a7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/73c4caaace9acf7bcdde7171b852a77a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/73c4caaace9acf7bcdde7171b852a77a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b56dd93eeb8ceb37a82b04e07e20cb34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b56dd93eeb8ceb37a82b04e07e20cb34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/e5db1a38282006096322ca724844aba0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/e5db1a38282006096322ca724844aba0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/b3bb295a0790a0c8d0714ecea8d5e505/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/b3bb295a0790a0c8d0714ecea8d5e505/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/32043bd836f6b3f6f60f06b5c5ad135f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/32043bd836f6b3f6f60f06b5c5ad135f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/754d98aafe54519a734c472dba7c3225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/754d98aafe54519a734c472dba7c3225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1906ec852f9a8f625e755e06c48c1358/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1906ec852f9a8f625e755e06c48c1358/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/740893e4e58ce9bc936bb729fc33f6ec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/740893e4e58ce9bc936bb729fc33f6ec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3e76cc7e871b0a8ca9cbeec317ac9e0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/3e76cc7e871b0a8ca9cbeec317ac9e0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/0f3d2c8dc4ba43e480587ba7f18c4696/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/0f3d2c8dc4ba43e480587ba7f18c4696/AndroidManifest.xml:6:5-43
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:64:5-66:41
+INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:64:5-66:41
+	tools:overrideLibrary
+		ADDED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:10:9-43
+	android:targetSdkVersion
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:66:9-38
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:65:9-35
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:68:5-137:19
+MERGED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-splash-screen] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-22:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/61da89e7584cc947ef56982b30bbe8c9/AndroidManifest.xml:13:5-20
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:15:5-26:19
+MERGED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:15:5-26:19
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/79ff747ffa3c03558a267b616495a76d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/79ff747ffa3c03558a267b616495a76d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/98c20daead4a4caaa4056659f0b07e89/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/98c20daead4a4caaa4056659f0b07e89/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:25:5-29:19
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:5-159:19
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:5-159:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/8a28e2bb3de109bfdb68616fe41f253d/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8cb91b778353d14c7e6d3ea30ed55893/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8cb91b778353d14c7e6d3ea30ed55893/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/85b52eefd47b03bd72cf4bc2ce174593/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/65c2aec8cc1ab5420df39df59ba7abd5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/65c2aec8cc1ab5420df39df59ba7abd5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/e71f24b23ad016113dce6991494fc07c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/e71f24b23ad016113dce6991494fc07c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/fb052e3a0636a04aef8ef24908fe6527/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/fb052e3a0636a04aef8ef24908fe6527/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/0223ef8284740e19d83851a027f34abe/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/0223ef8284740e19d83851a027f34abe/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/8fa8ba2a17265d8f1866d6e56b5c3dfa/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/8fa8ba2a17265d8f1866d6e56b5c3dfa/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/ed2e8ebf8d938c00a89adf26405a2db7/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/ed2e8ebf8d938c00a89adf26405a2db7/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/9680fdd5a45d9f0d30258202d94a116a/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/9680fdd5a45d9f0d30258202d94a116a/AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/ed8fd45e6f64a5693e296717ebed9c94/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/ed8fd45e6f64a5693e296717ebed9c94/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/332db96de5258363acc09756e98b0744/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/332db96de5258363acc09756e98b0744/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/1839acd6dd240e040e965234e17ecc5b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/1839acd6dd240e040e965234e17ecc5b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/840b9dd4e430438e08968fb95b594d40/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/840b9dd4e430438e08968fb95b594d40/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/24b285bdbd0f4aacb1533507e9baa8eb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/24b285bdbd0f4aacb1533507e9baa8eb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ecef5fc06a4da4c5abca3b4828a327dd/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/6c71571454545b4bda94d916c6ca418e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/6c71571454545b4bda94d916c6ca418e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/364159893786a01b5be2af03bd91b362/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/364159893786a01b5be2af03bd91b362/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/b174fd92860a4f705fe98135d3925622/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/b174fd92860a4f705fe98135d3925622/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/a955b10816b815608c311af509a4bf45/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/a955b10816b815608c311af509a4bf45/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/733c116c2aa9989d91003c4e48416545/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/733c116c2aa9989d91003c4e48416545/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/e85e7fce0110053a2b221f675d27553e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/e85e7fce0110053a2b221f675d27553e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/a53b587f765bb90c3ea702cfd0498b7e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/a36ace5bd8e341cd3f077d38ec11d33a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/a36ace5bd8e341cd3f077d38ec11d33a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/115726a11b18af3eaa6c5692294b58bb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/115726a11b18af3eaa6c5692294b58bb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/740893e4e58ce9bc936bb729fc33f6ec/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/740893e4e58ce9bc936bb729fc33f6ec/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5257aa68be2d03f83bb161dcfdf05bc6/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5257aa68be2d03f83bb161dcfdf05bc6/AndroidManifest.xml:2:3-17
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/0f3d2c8dc4ba43e480587ba7f18c4696/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/0f3d2c8dc4ba43e480587ba7f18c4696/AndroidManifest.xml:8:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:71:9-35
+	android:label
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:72:9-41
+	android:icon
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:73:9-43
+	android:allowBackup
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:70:9-35
+	android:theme
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:74:9-40
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:69:9-40
+activity#com.F1SBST.soexample.MainActivity
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:75:9-95:20
+	android:label
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:77:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:79:13-52
+	android:configChanges
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:78:13-83
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:76:13-41
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:83:13-87:29
+action#android.intent.action.MAIN
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:84:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:85:27-74
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:86:17-81
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:86:25-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:sb20
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:89:13-94:29
+action#android.intent.action.VIEW
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:90:17-69
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:90:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:91:17-76
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:91:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:92:17-78
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:92:27-75
+data
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:93:17-47
+	android:scheme
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:93:23-44
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:96:9-86
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:96:19-83
+activity#com.F1SBST.soexample.wxapi.WXEntryActivity
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:97:9-100:75
+	android:exported
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:99:13-36
+	android:theme
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:100:13-72
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:98:13-50
+activity#com.tencent.tauth.AuthActivity
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:101:9-111:20
+	android:launchMode
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:103:13-44
+	android:noHistory
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:102:13-58
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:112:9-114:74
+	android:theme
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:114:13-72
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:113:13-69
+activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:116:9-120:20
+	android:windowSoftInputMode
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:118:13-55
+	android:exported
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:117:13-72
+meta-data#UMENG_APPKEY
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:126:9-129:21
+	android:value
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:128:13-53
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:127:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:132:9-135:21
+	android:value
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:134:13-61
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:133:13-48
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:144:5-68
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:144:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:145:5-69
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:145:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:147:5-81
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:147:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:152:5-68
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-68
+MERGED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:152:22-65
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:153:5-72
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:153:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:155:5-71
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:155:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:156:5-74
+	android:name
+		ADDED from /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/src/main/AndroidManifest.xml:156:22-71
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-25:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:13-37
+	tools:replace
+		ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from [:react-native-share] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-share/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-55
+uses-permission#com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER
+ADDED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-88
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-117
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-fingerprint-scanner/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:22-114
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:25-76
+receiver#pro.piwik.sdk.extra.InstallReferrerReceiver
+ADDED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:20:13-36
+	tools:ignore
+		ADDED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from [pro.piwik.sdk:piwik-sdk:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.0.aar/b9ee082290dca4b7f86d6983a3d0ea38/AndroidManifest.xml:19:13-71
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/98c98467b24a240063092876ae3f6931/AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e9d544cc10c5d2220d30d250eff257ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a9b2e05b68a08e6fbb352b7521d1db2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9953b2358dd7517350eb46f089f8f2e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e7663df4ca3dcbb4e79b96520207b6f0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/638e9a32075c73cc5164edf6a9ffdba9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b6d0f34e6cde3ec5410e376d95742079/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/b398583df231d3f6212a9867c5247f0d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8807fd56499b95c128ef894e6f58d568/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5ad758cff749e47d348a4e8e83cdb669/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dca5b321b6ad4023ec5c1ad3de778624/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4c56e27360484ae29de2d53ec8696572/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-85
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:22-73
+service#com.taobao.accs.ChannelService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:9-38:19
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31:13-39
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:29:13-58
+intent-filter#action:name:com.taobao.accs.intent.action.SERVICE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:13-34:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:25-77
+intent-filter#action:name:com.taobao.accs.intent.action.ELECTION
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:35:13-37:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:36:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:9-45:19
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:40:13-69
+intent-filter#action:name:com.taobao.accs.intent.action.RECEIVE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:42:13-44:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43:17-80
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:47:9-64:20
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:49:13-39
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:48:13-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51:25-76
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:53:13-55:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:54:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:56:13-60:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:57:25-77
+intent-filter#action:name:android.intent.action.USER_PRESENT
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:61:13-63:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:62:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:65:9-74:20
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:67:13-39
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:66:13-59
+intent-filter#action:name:com.taobao.accs.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:68:13-70:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:69:17-80
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:69:25-77
+intent-filter#action:name:com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:71:13-73:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:72:17-88
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:72:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:76:9-78:42
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:78:13-39
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:77:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:79:9-85:19
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:80:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:86:9-93:19
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:89:13-39
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:87:13-64
+intent-filter#action:name:org.agoo.android.intent.action.RECEIVE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:90:13-92:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:91:17-81
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:91:25-78
+service#com.umeng.message.XiaomiIntentService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:94:9-101:19
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:97:13-39
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:96:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:95:13-65
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:103:9-115:20
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:106:13-39
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:105:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:104:13-63
+intent-filter#action:name:${applicationId}.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:107:13-109:29
+intent-filter#action:name:com.F1SBST.soexample.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:107:13-109:29
+action#${applicationId}.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:108:25-78
+action#com.F1SBST.soexample.intent.action.COMMAND
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:108:25-78
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:117:9-124:19
+	android:process
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:120:13-39
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:119:13-36
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:118:13-79
+intent-filter#action:name:org.android.agoo.client.MessageReceiverService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:121:13-123:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:122:17-89
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:122:25-86
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:127:13-80
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:130:9-148:19
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:131:13-80
+intent-filter#action:name:com.umeng.messge.registercallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:133:13-135:29
+action#com.umeng.messge.registercallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:134:17-83
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:134:25-80
+intent-filter#action:name:com.umeng.message.enablecallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:136:13-138:29
+action#com.umeng.message.enablecallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:137:17-82
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:137:25-79
+intent-filter#action:name:com.umeng.message.disablecallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:139:13-141:29
+action#com.umeng.message.disablecallback.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:140:17-83
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:140:25-80
+intent-filter#action:name:com.umeng.message.message.handler.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:142:13-144:29
+action#com.umeng.message.message.handler.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:143:17-83
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:143:25-80
+intent-filter#action:name:com.umeng.message.message.sendmessage.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:145:13-147:29
+action#com.umeng.message.message.sendmessage.action
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:146:17-87
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:146:25-84
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:149:9-151:40
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:150:13-74
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:153:9-158:20
+	android:authorities
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:155:13-65
+	android:exported
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:156:13-37
+	android:name
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:154:13-70
+grant-uri-permission
+ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:157:13-62
+	android:pathPattern
+		ADDED from [:push] /Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/push/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:157:35-59
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/07f0958cff58e1edfe06dac5e19adf9f/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/12cae1d21b6c5f084c952a6d78788e95/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3cce52f1c1f2bb3b7afc724c43fdbacf/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a14dd96df2a1b824f95d6d3b7dcaaacd/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/d7009725ca81ba16cb28002e6d1815b0/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/cedd411dbeac2d907ae0b65c709309ba/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c978309367a28e2b3b065c218ccdf2ee/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/ab0d7d3465534b80d62eef9edb42c14a/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.F1SBST.soexample
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/5036daf3c6e89c75c452413e867783f7/AndroidManifest.xml:26:13-31:29
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/83044c342f48684e84f83733abf0467e/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/9ef84496a8c63a72bbb493709bf4a471/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:17-71
+permission#com.F1SBST.soexample.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:26:22-76
+uses-permission#com.F1SBST.soexample.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.F1SBST.soexample
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:33:27-58
+category#com.F1SBST.soexample
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3c05c6613eda1efbd620433e9a373f5f/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/702042e1ef642e0d55547b0330dce525/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/dd7462e22e9b1849aaf33ae74f4e6e5f/AndroidManifest.xml:20:20-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/installreferrer-1.1.2.aar/be886b0fbd42dc53424700944f8bbb8d/AndroidManifest.xml:9:22-107
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/luguibin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c03ef685d8d6085e17f3e94ce847600d/AndroidManifest.xml:26:13-58

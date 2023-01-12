@@ -1,0 +1,7 @@
+#Mon Jul 25 20:16:53 JST 2022
+base.0=/Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/luguibin/Desktop/ST/APP-F1M1-SB-ST/android/app/build/intermediates/transforms/dexMerger/release/0

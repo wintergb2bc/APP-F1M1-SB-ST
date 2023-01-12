@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js b/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
+index 02b6750..08d9528 100644
+--- a/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
++++ b/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
+@@ -63,7 +63,7 @@ export default function HeaderControls(props) {
+         </TouchableOpacity>
+         <TouchableOpacity onPress={onPressYear}>
+           <Text style={[styles.yearHeaderMainText, textStyle]}>
+-            { year }
++            { year }年
+           </Text>
+         </TouchableOpacity>
+       </View>

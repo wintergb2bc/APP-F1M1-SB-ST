@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/AppDelegate.m \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/AppDelegate.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Frameworks-universal/FraudForce.framework/Modules/module.modulemap \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Frameworks-universal/FraudForce.framework/Headers/FraudForce.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/CodePush/CodePush.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMReactBridge/RNUMConfigure.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMComponents/UMCommon.framework/Headers/UMCommon.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMComponents/UMCommon.framework/Headers/UMConfigure.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMComponents/UMAnalytics.framework/Headers/MobClick.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMComponents/UMPush.framework/Headers/UMessage.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/UMComponent/UMReactBridge/UMPushModule.h \
+  ../node_modules/react-native-orientation/iOS/RCTOrientation/Orientation.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Modules/module.modulemap \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikTrackedViewController.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikTransactionBuilder.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikTransactionItem.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikTransaction.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikDispatcher.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikTracker.h \
+  /Users/luguibin/Desktop/未命名文件夹/APP-F1M1-SB-ST/ios/Pods/PiwikPROSDK/PiwikPROSDK.framework/Headers/PiwikPROSDK.h
